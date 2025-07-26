@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+requests
+beautifulsoup4
+newspaper3k
+openai
+scikit-learn
+wordcloud
+matplotlib
+textstat
+python-dotenv
