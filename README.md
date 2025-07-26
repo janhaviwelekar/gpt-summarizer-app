@@ -21,9 +21,9 @@ An intelligent Streamlit web app that summarizes PDFs, URLs, or typed text using
 
 ## 🚀 Demo
 
-> [🔗 Live Streamlit App (https://gpt-summarizer-app-4w3jqwapaz2vbdfu7ozdcc.streamlit.app/)]()
+> [🔗 Live Streamlit App ("https://gpt-summarizer-app-4w3jqwapaz2vbdfu7ozdcc.streamlit.app/")]()
 
-![App Preview](assets/preview.png)
+![App Preview](D:\assets\image.png)
 
 ---
 
