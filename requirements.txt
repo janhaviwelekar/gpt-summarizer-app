@@ -11,3 +11,4 @@ textstat
 python-dotenv
 lxml
 lxml_html_clean
+openai
