@@ -1,3 +1,4 @@
+import openai
 import streamlit as st
 from utils import (
     extract_text_from_pdf,
@@ -7,6 +8,8 @@ from utils import (
 )
 import base64
 
+from dotenv import load_dotenv
+import os
 st.set_page_config(
     page_title="🧠 AI Text Summarizer",
     layout="centered",
